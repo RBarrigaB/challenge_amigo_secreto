@@ -160,3 +160,15 @@ ul {
 .button-draw:hover {
     background-color: var(--color-button-hover);
 }
+
+#inputError {
+    width: 100%;
+    max-width: 600px;
+    margin-top: 20px;
+    color: #c41407;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    justify-content: start;
+}
